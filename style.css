@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.box {
+    margin: 20px;
+}
+
+textarea {
+    width: 300px;
+    height: 100px;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.output {
+    margin-top: 20px;
+    background: #f4f4f4;
+    padding: 20px;
+}
